@@ -1,0 +1,33 @@
+# ISSolutionAgency
+
+> ISSolutionAgency is a web development agency. We build custom websites, web applications, e-commerce stores and APIs that are fast, accessible and ready to scale. We are stack-agnostic and choose the right tool per project (for example React, Next.js, WordPress, Shopify or Laravel), or work in the platform a client already has.
+
+Contact: inshaalshahid1@gmail.com (we reply within one business day). Quotes are free; final prices depend on scope and are confirmed in writing.
+
+## Pages
+- [Home](/): overview, services, work, process, packages and FAQ
+- [Services](/services): all ten services
+- [Work](/work): demo builds with live demos and case studies (demo builds, not client work)
+- [Process](/process): Discover, Plan & Architect, Design, Develop, Test & Launch, Support & Grow
+- [About](/about): who we are and how we work
+- [Contact](/contact): project enquiry form
+
+## Services
+- [Custom Websites](/services/custom-websites): marketing sites, landing pages and corporate sites, built from scratch
+- [Web Applications](/services/web-applications): dashboards, SaaS products and customer portals
+- [Front-End Development](/services/front-end-development): React and Next.js, including animation-rich UIs
+- [Back-End & APIs](/services/back-end-and-apis): secure APIs, databases and third-party integrations
+- [E-commerce](/services/e-commerce): Shopify, WooCommerce and headless commerce stores
+- [CMS & WordPress](/services/cms-and-wordpress): custom WordPress themes and headless CMS setups
+- [Performance, SEO & Accessibility](/services/performance-seo-accessibility): Core Web Vitals, technical SEO, WCAG accessibility
+- [Maintenance & Support](/services/maintenance-and-support): updates, hosting, monitoring and migrations
+- [AI Chatbots & Automation](/services/ai-chatbots-and-automation): website and WhatsApp chatbots, booking bots, form-to-CRM workflows
+- [AI-App Rescue](/services/ai-app-rescue): fix, secure and scale apps built with Lovable, Bolt, v0 or Cursor
+
+## Packages (starting prices, USD)
+- Landing Page: from $200, about 2 days
+- Business Site: from $1,200, 3–5 weeks (recommended start)
+- Web App MVP: from $3,500, 6–10 weeks
+- AI-App Rescue Sprint: from $600 per week, 1-week sprints
+- Care Plan: from $120 per month
+- Add-on: AI chatbot for any package, from $300
